@@ -1,27 +1,32 @@
 Study Buddy App
 
-Study Buddy App is a productivity tool designed to help users manage their time and tasks effectively. It includes a to-do list, a notes manager, and a Pomodoro timer for efficient study sessions.
+Study Buddy App is a productivity tool designed to help you manage your time, tasks, and notes efficiently. With features like a to-do list, a notes manager, and a customizable Pomodoro timer, this app is perfect for students, professionals, and anyone looking to stay organized.
 
 Features
 
 To-Do List
-	•	Create, edit, and delete tasks.
+	•	Add, edit, and delete tasks.
 	•	Set priorities (High, Medium, Low).
 	•	Categorize tasks (Work, Personal, School, etc.).
 	•	Search and filter tasks by text or category.
-	•	Mark tasks as completed.
+	•	Mark tasks as completed with ease.
 
 Notes
-	•	Add, edit, and delete notes.
-	•	Categorize notes into custom categories.
+	•	Add, edit, and delete notes with a clean UI.
 	•	Assign colors to notes for better organization.
-	•	Search notes by text or filter by category.
+	•	Create custom categories for notes.
+	•	Search notes or filter them by category.
 
 Pomodoro Timer
 	•	Customizable work and break intervals.
-	•	Track completed Pomodoro sessions.
-	•	Receive sound alerts when sessions end.
-	•	Visualize progress with a circular progress indicator.
+	•	Visual timer with progress indicator.
+	•	Alerts when sessions start or end.
+	•	Track completed sessions in a detailed history.
+
+Getting Started
+
+Prerequisites
+	•	Flutter installed on your machine.
 
 Installation
 	1.	Clone the repository:
@@ -43,27 +48,33 @@ flutter pub get
 
 flutter run
 
-How to Use
-	1.	To-Do List:
-	•	Tap the “+” button to add tasks.
-	•	Set task priorities and categories.
-	•	Use the search bar or filter by category.
-	2.	Notes:
-	•	Add new notes with custom colors and categories.
-	•	Use the dropdown to filter by category.
-	3.	Pomodoro Timer:
-	•	Customize work and break intervals in settings.
-	•	Start, pause, or reset the timer.
-	•	Check completed sessions in history.
+Usage
+
+To-Do List
+	1.	Tap the + button to add a task.
+	2.	Assign a priority and category to your task.
+	3.	Search tasks using the search bar or filter by category.
+
+Notes
+	1.	Add notes with custom colors and categories.
+	2.	Filter notes by category using the dropdown menu.
+	3.	Edit or delete notes with intuitive controls.
+
+Pomodoro Timer
+	1.	Start the timer for focused work sessions.
+	2.	Customize work and break durations in settings.
+	3.	Track completed sessions in the history tab.
 
 Contributing
-	1.	Fork the project.
-	2.	Create a branch:
+
+We welcome contributions to improve Study Buddy App!
+	1.	Fork the repository.
+	2.	Create a feature branch:
 
 git checkout -b feature/your-feature
 
 
-	3.	Commit changes:
+	3.	Commit your changes:
 
 git commit -m "Add your feature"
 
@@ -77,5 +88,7 @@ git push origin feature/your-feature
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Enjoy using Study Buddy App! 🎉
 
